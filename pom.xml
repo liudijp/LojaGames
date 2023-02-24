@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.generation</groupId>
     <artifactId>lojagames</artifactId>
-    <version>3.0.2</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>lojagames</name>
     <description>projeto Loja Games</description>
     <properties>
@@ -67,6 +67,7 @@
                     </excludes>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 
